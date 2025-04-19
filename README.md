@@ -38,3 +38,9 @@ select the tool and select the virtual pin . here v0 for on/off and v1 for slide
 now go back and once you click on/off it will display in serial monitor
 
 connect the nodemcu and led light as shown below
+![iotdevice](https://github.com/user-attachments/assets/1d728dce-ef76-4f4d-b923-e62e79c3670c)
+
+once the light is ON it shows ON in serial monitor 
+![WhatsApp Image 2025-04-19 at 14 07 20_a26e8696](https://github.com/user-attachments/assets/54b3a807-7dcf-4834-b781-4831782643e3)
+![WhatsApp Image 2025-04-19 at 14 07 11_e5c8ead5](https://github.com/user-attachments/assets/27bac766-1aa1-4183-9e55-434a71be4091)
+
