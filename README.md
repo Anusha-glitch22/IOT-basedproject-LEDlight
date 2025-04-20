@@ -35,7 +35,7 @@ select the template which you have created and then add tools to on/off the ligh
 
 select the tool and select the virtual pin . here v0 for on/off and v1 for slider.
 
-now go back and once you click on/off it will display in serial monitor
+now go back and once you click on/off it will display in serial monitor as Light is ON or OFF
 
 connect the nodemcu and led light as shown below
 ![iotdevice](https://github.com/user-attachments/assets/1d728dce-ef76-4f4d-b923-e62e79c3670c)
